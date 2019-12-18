@@ -1,0 +1,32 @@
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\bin\Release\Aplikasi_karyawan.exe
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\bin\Release\Aplikasi_karyawan.pdb
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\bin\Release\Aplikasi_karyawan.xml
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Release\ResolveAssemblyReference.cache
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Form1.resources
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Form2.resources
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Resources.resources
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.exe
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.xml
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.pdb
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Release\Aplikasi_karyawan.exe
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Release\Aplikasi_karyawan.pdb
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Release\Aplikasi_karyawan.xml
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\ResolveAssemblyReference.cache
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Cetak_Form_Gaji.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Cetak_Form_Jabatan.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Form_Absensi.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Form_Cetak_Rekap_Gaji.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Form_gaji.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Form_Jabatan.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Form_lembur.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Form_Rekap_Gaji.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Menu_Utama.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Update_Data.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Form1.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Resources.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.Insert_Data.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.exe
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.xml
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Release\Aplikasi_karyawan.pdb

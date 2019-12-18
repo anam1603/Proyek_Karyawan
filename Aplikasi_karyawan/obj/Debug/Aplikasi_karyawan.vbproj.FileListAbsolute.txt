@@ -1,0 +1,115 @@
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.exe
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.pdb
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.xml
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form1.resources
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Resources.resources
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.exe
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.xml
+D:\KHOIRUL ISTIQOMAH_1808410040039\SEMESTER III & IV\SEMESTER III\visual\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.pdb
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.exe
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.xml
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.pdb
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.exe
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.pdb
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.xml
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form1.resources
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form2.resources
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Resources.resources
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.tambah_karyawan.resources
+D:\NADYA FARAH TIANA _1808410040041\SEMESTER 3\VISUAL PROGRAMMING 2\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.edit_karyawan.resources
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.exe
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.xml
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.pdb
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.exe
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.pdb
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.xml
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.edit_karyawan.resources
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form1.resources
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form2.resources
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Resources.resources
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.tambah_karyawan.resources
+F:\Database\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.exe
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.xml
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.pdb
+F:\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.exe
+F:\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.pdb
+F:\Aplikasi_karyawan\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.xml
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.edit_karyawan.resources
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form1.resources
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form2.resources
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Resources.resources
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.tambah_karyawan.resources
+F:\Aplikasi_karyawan\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.exe
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.xml
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.pdb
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.exe
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.pdb
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.xml
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Update_Data.resources
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form1.resources
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Resources.resources
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Insert_Data.resources
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+F:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_Jabatan.resources
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.exe
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.xml
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.pdb
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.exe
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.pdb
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.xml
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_gaji.resources
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_Jabatan.resources
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Update_Data.resources
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form1.resources
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Resources.resources
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Insert_Data.resources
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+D:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_lembur.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.exe
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.xml
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.pdb
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.exe
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.pdb
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.xml
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Cetak_Form_Jabatan.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_gaji.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_Jabatan.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_lembur.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Update_Data.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form1.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Resources.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Insert_Data.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.exe
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.xml
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.pdb
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.exe
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.pdb
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\bin\Debug\Aplikasi_karyawan.xml
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Cetak_Form_Jabatan.resources
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_gaji.resources
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_Jabatan.resources
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_lembur.resources
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Update_Data.resources
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form1.resources
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Resources.resources
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Insert_Data.resources
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Cetak_Form_Gaji.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Cetak_Form_Gaji.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_Cetak_Rekap_Gaji.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_Rekap_Gaji.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Menu_Utama.resources
+G:\Aplikasi_Karyawan_Khairul Anam\Aplikasi_karyawan\obj\Debug\Aplikasi_karyawan.Form_Absensi.resources
